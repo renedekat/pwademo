@@ -16,7 +16,7 @@ module.exports = env => {
       filename: "[name].[chunkhash].js",
       chunkFilename: "[name].[chunkhash].bundle.js",
       path: path.resolve(__dirname, "dist"),
-      publicPath: 'pwademo',
+      publicPath: '/pwademo/',
     },
     plugins: [
       new webpack.HashedModuleIdsPlugin(),

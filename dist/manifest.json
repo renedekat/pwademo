@@ -2,12 +2,12 @@
   "name": "Currencies",
   "short_name": "Currencies",
   "icons": [{
-    "src": "/images/icons/icon-512x512.png",
+    "src": "/pwademo/images/icons/icon-512x512.png",
     "sizes": "512x512",
     "type": "image/png"
   }],
 
-  "start_url": "/index.html?fromHomeScreen",
+  "start_url": "/pwademo/index.html?fromHomeScreen",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#ff0000",

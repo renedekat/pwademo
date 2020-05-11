@@ -10,6 +10,6 @@
   "start_url": "/pwademo/index.html?fromHomeScreen",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#ff0000",
-  "theme_color": "#ff0000"
+  "background_color": "#2977ff",
+  "theme_color": "#2977ff"
 }
